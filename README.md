@@ -42,8 +42,6 @@ Real-time self-driving car simulation built using computer vision and deep learn
 
 
 ## Installation
-
-```bash
 git clone :(https://github.com/HabibaSaleh1/Self_Driving_Car.git)
 cd Self_Driving_Car
 
@@ -51,6 +49,6 @@ install requirements
 
 pip install opencv-python numpy ultralytics
 Run the Project
-python main.py
+python drive2.py
 
 Press Q to exit the simulation.
