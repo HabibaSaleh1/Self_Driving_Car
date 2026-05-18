@@ -34,7 +34,7 @@ Real-time self-driving car simulation built using computer vision and deep learn
 
 
 .
-├── main.py
+├── drive2.py
 ├── yolov8n.pt
 ├── Highway.mp4
 ├── README.md
